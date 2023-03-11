@@ -204,6 +204,16 @@ body {
     color: var(--color-Cobalt-blue);
 }
 
+.score-cart span{
+    color:var(--color-Dark-gray-blue);
+    font-weight: 700;
+}
+
+.score-cart .score-cart_score  {
+    color:hsl(224, 30%, 27%,0.5);
+    font-weight: 400;
+}
+
 button{
     margin-top: 1.5rem;
     padding: 1rem;
@@ -244,6 +254,9 @@ button{
     margin-bottom: 1rem;
 }
 
+.main-container_wapper {
+    margin-bottom: 1.5rem;
+}
  
     
 }
